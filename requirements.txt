@@ -1,3 +1,0 @@
-stream lit
-scikit-learn
-pandas
